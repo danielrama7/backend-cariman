@@ -1,0 +1,35 @@
+@prefix data: <http://example.com/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+data:1 rdf:type data:tanaman;
+    data:id "1";
+    data:nama "Bunga Mawar";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Rosa";
+    data:urlFoto "";
+    .
+
+data:2 rdf:type data:tanaman;
+    data:id "2";
+    data:nama "Bunga Tulip";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Tulipa";
+    data:urlFoto "";
+    .
+
+data:3 rdf:type data:tanaman;
+    data:id "3";
+    data:nama "Bunga Anggrek";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Orchidaceae";
+    data:urlFoto "";
+    .
+
+data:4 rdf:type data:tanaman;
+    data:id "4";
+    data:nama "Bunga Matahari";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Helianthus annuus";
+    data:urlFoto "";
+    .
+
