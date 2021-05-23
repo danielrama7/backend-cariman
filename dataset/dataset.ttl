@@ -6,7 +6,8 @@ data:1 rdf:type data:tanaman;
     data:nama "Bunga Mawar";
     data:kategori "Tanaman Hias";
     data:nama_ilmiah "Rosa";
-    data:urlFoto "";
+    data:urlFoto "https://asset.kompas.com/crops/SU2rIFfQk9bmpllTs4f-kQDaRsU=/192x128:1728x1152/750x500/data/photo/2021/02/04/601bce0638cf2.jpg";
+    data:deskripsi "Mawar adalah suatu jenis tanaman semak dari genus Rosa sekaligus nama bunga yang dihasilkan tanaman ini. Mawar liar terdiri dari 100 spesies lebih, kebanyakan tumbuh di belahan bumi utara yang berudara sejuk";
     .
 
 data:2 rdf:type data:tanaman;
@@ -14,7 +15,8 @@ data:2 rdf:type data:tanaman;
     data:nama "Bunga Tulip";
     data:kategori "Tanaman Hias";
     data:nama_ilmiah "Tulipa";
-    data:urlFoto "";
+    data:urlFoto "https://www.beritaminang.com/photos/foto/foto-bunga-tulip-sejukkan-mata-di_foto1_190420093437.jpeg";
+    data:deskripsi "Tulip merupakan nama genus untuk 100 spesies tumbuhan berbunga yang termasuk ke dalam keluarga Liliaceae. Tulip berasal dari Asia Tengah, tumbuh liar di kawasan pegunungan Pamir dan pegunungan Hindu Kush dan stepa di Kazakhstan. Negeri Belanda terkenal sebagai negeri bunga tulip.";
     .
 
 data:3 rdf:type data:tanaman;
@@ -22,7 +24,8 @@ data:3 rdf:type data:tanaman;
     data:nama "Bunga Anggrek";
     data:kategori "Tanaman Hias";
     data:nama_ilmiah "Orchidaceae";
-    data:urlFoto "";
+    data:urlFoto "https://asset.kompas.com/crops/XS6507pBQRpoNxgyWIIkJXGKWqE=/8x0:1000x661/750x500/data/photo/2020/06/11/5ee1f67391dff.jpg";
+    data:deskripsi "Bunga anggrek yaitu bunga yang unik, bunga anggrek memiliki berbagai tipe warna, ada bunga anggrek putih, merah muda, kuning, ungu dan terdapat beberapa lagi, bunga itu bisa termasuk juga cukup unik karena memiliki beragam type tipe. Anggrek juga satu di antara dalam group tumbuhan rambat.";
     .
 
 data:4 rdf:type data:tanaman;
@@ -30,6 +33,247 @@ data:4 rdf:type data:tanaman;
     data:nama "Bunga Matahari";
     data:kategori "Tanaman Hias";
     data:nama_ilmiah "Helianthus annuus";
-    data:urlFoto "";
+    data:urlFoto "https://cdn.medcom.id/images/content/2019/09/18/1064928/gBui9ptNV0.jpg";
+    data:deskripsi "Bunga matahari adalah tumbuhan semusim dari suku kenikir-kenikiran yang populer, baik sebagai tanaman hias maupun tanaman penghasil minyak. Bunga tumbuhan ini sangat khas: besar, biasanya berwarna kuning terang, dengan kepala bunga yang besar.";
     .
 
+data:5 rdf:type data:tanaman;
+    data:id "5";
+    data:nama "Anggrek Bulan";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Phalaenopsis amabilis";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/04/anggrek-bulan.jpg?w=250&h=218";
+    data:deskripsi "merupakan salah satu bunga nasional Indonesia, Anggrek bulan (Phalaenopsis amabilis) ditetapkan sebagai Puspa Pesona Indonesia mendampingi bunga melati (Jasminum sambac) yang ditetapkan sebagai puspa bangsa Indonesia dan padma raksasa (Rafflesia arnoldii)  sebagai puspa langka Indonesia.";
+    .
+
+data:6 rdf:type data:tanaman;
+    data:id "6";
+    data:nama "Anggrek Hitam";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Coelogyne pandurata";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/01/coelogyne-pandurata-anggrek-hitam.jpg?w=398&h=400";
+    data:deskripsi "Anggrek hitam adalah salah satu spesies anggrek yang dilindungi di Indonesia karena terancam kepunahan di habitat aslinya. Anggrek hitam yang dalam bahasa latin disebut Coelogyne pandurata merupakan flora identitas (maskot) propinsi Kalimantan Timur. ";
+    .
+
+data:7 rdf:type data:tanaman;
+    data:id "7";
+    data:nama "Anggrek Tebu";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Grammatophyllum speciosum";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/07/anggrek-tebu-grammatophyllum-speciosum.jpg?w=187&h=250";
+    data:deskripsi "Anggrek tebu (Grammatophyllum speciosum) merupakan anggrek terbesar, paling besar dan paling berat diantara jenis-jenis anggrek lainnya. Dalam satu rumpun dewasa, anggrek tebu dapat mencapai berat lebih dari 1 ton dan mempunyai panjang malai hingga 3 meter dengan diameter malai sekitar 1,5-2 cm. Itulah sebabnya tanaman ini layak menyandang predikat sebagai anggrek terbesar dan terberat atau anggrek raksasa.";
+    .
+
+data:8 rdf:type data:tanaman;
+    data:id "8";
+    data:nama "Bunga Bangkai";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Amorphpophallus titanium";
+    data:urlFoto "https://alamendah.files.wordpress.com/2009/08/bungabangkai.jpg?w=259&h=400";
+    data:deskripsi "Bunga bangkai berbeda dengan Raflesia. Secara fisik bunga bangkai memiliki daun dan batang yang tumbuh menjulang tinggi sedangkan bunga rafflesia hidup sebagai parasit pada inang tertentu tanpa batang dan daun dan bunganya merebah di tanah.";
+    .
+
+data:9 rdf:type data:tanaman;
+    data:id "9";
+    data:nama "Cempaka Putih";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Michelia alba";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/05/kantil-cempaka-putih-michelia-alba.jpg?w=188&h=250";
+    data:deskripsi "Cempaka putih merupakan tanaman yang mempunyai bunga berwarna putih dan berbau harum dengan tinggi pohon mencapai 30 meter. Bunga kantil yang mempunyai nama latin Michelia alba dan masih berkerabat dekat dengan bunga jeumpa (cempaka kuning) ini merupakan tanaman khas (fauna identitas) provinsi Jawa Tengah.";
+    .
+
+data:10 rdf:type data:tanaman;
+    data:id "10";
+    data:nama "Cempaka Kuning";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Michelia champaka";
+    data:urlFoto "https://alamendah.files.wordpress.com/2009/10/bunga-jeumpa-michelia_champaca.jpg?w=640";
+    data:deskripsi "unga Jeumpa (Michelia champaka) atau disebut juga Cempaka Kuning, merupakan satu dari sekitar 50 spesies anggota genus Michelia. Bunga Jeumpa merupakan pohon atau perdu yang mempunyai tinggi antara 3 – 6 meter.  Memiliki bunga yang berbau wangi dan berwarna oranye, kuning atau putih krem, berukuran agak besar, helaian bunganya tersusun dalam untaian yang banyak. Buahnya coklat terdiri atas 2-6 biji. Minyak bunga ini digunakan sebagai bahan parfum. Bunga Jeumpa merupakan flora identitas (maskot) provinsi Nanggroe Aceh Darussalam.";
+    .
+
+data:11 rdf:type data:tanaman;
+    data:id "11";
+    data:nama "Edelweis Jawa";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Anaphalis javanica";
+    data:urlFoto "https://alamendah.files.wordpress.com/2009/07/edelweiss_011.jpg?w=250&h=240";
+    data:deskripsi "Edelweis (kadang ditulis eidelweis) atau Edelweis Jawa (Javanese edelweiss) juga dikenal sebagai Bunga Abadi yang mempunyai nama latin Anaphalis javanica, adalah tumbuhan endemik zona alpina/montana di berbagai pegunungan tinggi Indonesia. Tumbuhan ini dapat mencapai ketinggian maksimal 8 m dengan batang mencapai sebesar kaki manusia walaupun umumnya tidak melebihi 1 m. Tumbuhan yang bunganya sering dianggap sebagai perlambang cinta, ketulusan, pengorbanan, dan keabadian ini sekarang dikategorikan sebagai tanaman langka.";
+    .
+
+data:12 rdf:type data:tanaman;
+    data:id "12";
+    data:nama "Kenanga";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Cananga odorata";
+    data:urlFoto "https://alamendah.files.wordpress.com/2011/03/kenanga-cananga-odorata.jpg?w=400&h=300";
+    data:deskripsi "Kenanga (Cananga odorata) merupakan bunga khas (flora identitas) provinsi Sumatera Utara. Tanaman Kenanga mempunyai bunga yang beraroma wangi dan harum sehingga disuling menjadi minyak wangi. Bunga Kenanga (Cananga odorata) juga sering digunakan dalam upacara-upacara adat.";
+    .
+
+data:13 rdf:type data:tanaman;
+    data:id "13";
+    data:nama "Bunga Melati";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Jasminus sambac";
+    data:urlFoto "https://alamendah.files.wordpress.com/2011/02/bunga-melati.jpg?w=400&h=299";
+    data:deskripsi "Melati merupakan sekumpulan tanaman perdu yang dikelompokkan dalam gebus Jasminum. Bunga berbau harum yang menjadi lambang kesucian dan kemurnian ini terdiri atas lebih dari 200-an jenis yang tersebar di seluruh dunia. Beberapa jenis diantaranya telah dibudidayakan manusia.";
+    .
+
+data:14 rdf:type data:tanaman;
+    data:id "14";
+    data:nama "Pohon Nibung";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Oncosperma tigillarium";
+    data:urlFoto "https://alamendah.files.wordpress.com/2009/12/nibung-oncosperma-tigillarium.jpg?w=168&h=250";
+    data:deskripsi "Pohon Nibung (Oncosperma tigillarium) adalah tanaman sejenis palma (palem) yang tumbuh di Asia Tenggara termasuk hampir di seluruh wilayah Indonesia. Pohon Nibung dianggap sebagai simbol semangat persatuan dan persaudaraan masyarakat Riau  karenanya tidak heran jika pohon Nibung ditetapkan sebagai flora identitas provinsi Riau.";
+
+data:15 rdf:type data:tanaman;
+    data:id "15";
+    data:nama "Ceplukan";
+    data:kategori "Tanaman Obat";
+    data:nama_ilmiah "Physalis angulata";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/08/ciplukan-buah-daun-bunga.jpg?w=250&h=246";
+    data:deskripsi "Ceplukan atau ciplukan yang dalam bahasa latin disebut sebagai Physalis angulata merupakan salah satu tumbuhan herbal yang hidup semusim dan mempunyai tinggi sekitar 1 meter saja. Ceplukan atau ciplukan (Physalis angulata) yang mempunyai buah khas yang tertutup oleh pembesaran kelopak bunga ini kaya akan berbagai manfaat terutama sebagai tanaman herbal (obat-obatan).";
+
+data:16 rdf:type data:tanaman;
+    data:id "16";
+    data:nama "Mengkudu";
+    data:kategori "Tanaman Obat";
+    data:nama_ilmiah "Morinda citrifolia";
+    data:urlFoto "https://alamendah.files.wordpress.com/2011/08/mengkudu-pace.jpg?w=275&h=400";
+    data:deskripsi "Pohon mengkudu atau pace yang diyakini sebagai tanaman asli Asia Tenggara sejak lama telah dimanfaatkan untuk mengobati berbagai penyakit seperti asam urat, reumatik, darah tinggi, diabetes, ginjal, kanker, alergi, asma, dan lainnya. Khasiat ini disebabkan mengkudu (Morinda citrifolia) memiliki kandungan vitamin, kalsium, kalium, protein, antioksidan, dan lainnya.";
+
+data:17 rdf:type data:tanaman;
+    data:id "17";
+    data:nama "Sirih";
+    data:kategori "Tanaman Obat";
+    data:nama_ilmiah "Piper betle";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/10/daun-sirih.jpg?w=266&h=400";
+    data:deskripsi "Sirih merupakan tanaman khas atau Flora Identitas provinsi Kepulauan Riau. Tanaman yang konon asli Indonesia dan tumbuh merambat pada batang pohon lain ini ditetapkan sebagai maskot (identitas) provinsi kepulauan ini.";
+
+data:18 rdf:type data:tanaman;
+    data:id "18";
+    data:nama "Zodia";
+    data:kategori "Tanaman Obat";
+    data:nama_ilmiah "Evodia suaveolens";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/03/tanaman-zodia-dalam-pot.png?w=283&h=400";
+    data:deskripsi "Zodia (Evodia suaveolens). Zodia adalah tumbuhan dari suku jeruk-jerukan (Rutaceae) yang merupakan tanaman endemik Indonesia yang berasal dari Papua. Tanaman ini telah dimanfaatkan oleh masyarakat asli Papua untuk mengusir serangga dan nyamuk dengan cara mengusapkan daun zodia ke sekujur tubuh.";
+
+data:19 rdf:type data:tanaman;
+    data:id "19";
+    data:nama "Belimbing Wuluh";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Averrhoa bilimbi";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/08/belimbing-wuluh-averrhoa-bilimbi.jpg?w=188&h=250";
+    data:deskripsi "Belimbing wuluh atau disebut juga belimbing sayur, belimbing asam atau belimbing buluh dengan nama latin Averrhoa bilimbi merupakan tanaman yang mempunyai buah berasa asam yang kaya khasiat sering digunakan sebagai bumbu sayuran atau campuran jamu.";
+
+data:20 rdf:type data:tanaman;
+    data:id "20";
+    data:nama "Pohon Ceremai";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Phyllanthus acidus";
+    data:urlFoto "https://s0.bukalapak.com/img/558256701/large/581119_a4e25e17-480b-48fd-b070-c903ea926226.jpg";
+    data:deskripsi "Pohon ceremai merupakan pohon dengan nama buah yang sama. Pohon ceremai yang menghasilkan buah berasa masam (asam) seperti belimbing wuluh ini ternyata memiliki aneka manfaat khususnya sebagai tumbuhan obat-obatan (herbal).";
+
+data:21 rdf:type data:tanaman;
+    data:id "21";
+    data:nama "Duwet";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Syzygium cumini";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/02/buah-jamblang-duwet.jpg?w=400&h=300";
+    data:deskripsi "Jamblang atau Duwet adalah nama buah dan pohon untuk tanaman bernama ilmiah Syzygium cumini. Pohon penghasil buah ini masih tergolong dalam suku jambu-jambuan (Myrtaceae). Jamblang atau Duwet kini termasuk salah satu tanaman yang mulai terlupakan bahkan langka dan jarang dibudidayakan. Konon, pohon Jamblang (Syzygium cumini) merupakan rumah bagi para hantu.";
+
+data:22 rdf:type data:tanaman;
+    data:id "22";
+    data:nama "Gayam";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Inocarpus fagiferus";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/12/buah-gayam.jpg?w=400&h=312";
+    data:deskripsi "Gayam merupakan tanaman bernama latin Inocarpus fagiferus yang bersinonim dengan Inocarpus fagifer dan Inocarpus edulis. Tanaman yang dikenal juga sebagai angkaeng dan bosua (Sulawesi) ini dalam bahasa Inggris disebut Otaheite chestnut, Polynesian chestnut, atau Tahiti chestnut.";
+
+data:23 rdf:type data:tanaman;
+    data:id "23";
+    data:nama "Kasturi";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Mangifera casturi";
+    data:urlFoto "https://www.greeners.co/wp-content/uploads/2017/12/Flora-Mangga-Kasturi-Ikon-Flora-Kalimantan-Selatan-yang-Punah-di-Alam.jpg";
+    data:deskripsi "Kasturi yang dalam bahasa ilmiah (latin) disebut Mangifera casturi, merupakan salah satu dari sekitar 31 jenis mangga yang dapat ditemukan di Kalimantan, Indonesia. Bahkan, mangga yang dalam bahasa Inggris selain disebut kasturi juga dinamakan Kalimantan Mango ini merupakan tumbuhan endemik Kalimantan. Sayang, IUCN redlist melabelinya sebagai Extinct in the Wild atau telah punah dari habitat aslinya.";
+
+data:24 rdf:type data:tanaman;
+    data:id "24";
+    data:nama "Kawista";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Limonia acidissima";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/02/limonia_acidissima_syn_limonia_elephantum_or_fernonia_limonia_wood-apple_in_talakona_forest_ap_w_img_8333.jpg?w=400&h=302";
+    data:deskripsi "Kawista atau Kawis mungkin kurang populer oleh kita. Pohon penghasil buah yang dalam bahasa latin disebut sebagai Limonia acidissima ini mulai jarang ditemukan. Tumbuhan yang mampu hidup di daerah bertanah kering dan identik dengan kota Rembang meskipun sebenarnya pohon Kawista ini berasal dari India bagian selatan memang kalah populer dengan buah-buah lainnya.";
+
+data:25 rdf:type data:tanaman;
+    data:id "25";
+    data:nama "Kedoya";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Dysoxylum gaudichaudianum";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/07/kedoya-dysoxylum-gaudichaudianum.jpg?w=400&h=300";
+    data:deskripsi "Kedoya (Dysoxylum gaudichaudianum), diyakini dari nama pohon inilah nama Kedoya, sebuah daerah di kecamatan Kebun Jeruk Jakarta Barat berasal. Namun ternyata hanya sedikit yang mengetahui sejarah asal muasal nama daerah ini. Mungkin lantaran mulai langka dan sulit dijumpainya pohon yang mempunyai nama latin ini. Seperti halnya kemang, gambir maupun berbagai nama tumbuhan yang dijadikan nama daerah di Jakarta.";
+
+data:26 rdf:type data:tanaman;
+    data:id "26";
+    data:nama "Kemang";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Mangifera kemanga";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/05/pohon-kemang-mangifera-kemanga.jpg?w=400&h=303";
+    data:deskripsi "Kemang (Mangifera kemanga) merupakan tanaman yang mulai langka di Indonesia. Padahal, konon dari nama pohon sejenis mangga ini nama daerah Kemang di Jakarta berasal. Pohon kemang yang mempunyai buah khas berbau harus menusuk dengan rasa yang masam manis ini juga telah ditetapkan sebagai flora identitas kabupaten Bogor, Jawa Barat. Sayangnya, tumbuhan ini mulai langka dan sulit ditemukan.";
+
+data:27 rdf:type data:tanaman;
+    data:id "27";
+    data:nama "Kepel";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Stelechocarpus burahol";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/02/pohon-dan-buah-kepel.jpg?w=300&h=400";
+    data:deskripsi "Kepel adalah nama pohon dan buah yang mempunyai nama ilmiah Stelechocarpus burahol. Tumbuhan penghasil buah yang menjadi kegemaran para putri keraton Jawa sejak jaman dulu ini kini termasuk salah satu tanaman langka di Indonesia. Pohon Kepel yang dipercaya mempunyai nilai filosofi adhiluhung ini merupakan flora identitas provinsi Daerah Istimewa Jogyakarta.";
+
+data:28 rdf:type data:tanaman;
+    data:id "28";
+    data:nama "Korma Rawa";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Phoenix paludosa";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/07/korma-rawa_large.jpg?w=250&h=168";
+    data:deskripsi "Korma rawa (Phoenix paludosa) memang masih saudara dekat pohon kurma (Phoenix dactylifera) yang biasa tumbuh di daerah Arab. Korma rawa dapat ditemukan di rawa-rawa daerah Aceh Timur. Pohon yang mulai langka ini termasuk salah satu dari sekitar 14 jenis palem (Arecaceae )yang dilindungi di Indoneia. Sayang sedikit yang mengetahui keberadaan tumbuhan ini termasuk penelitian tentang potensi dan manfaat pohon korma rawa (Phoenix paludosa) masih sangat sedikit.";
+
+data:29 rdf:type data:tanaman;
+    data:id "29";
+    data:nama "Siwalan";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Borassus flabellifer";
+    data:urlFoto "https://alamendah.files.wordpress.com/2009/11/pohon-lontar-borassus-flabellifer.jpg?w=267&h=400";
+    data:deskripsi "Pohon Siwalan atau disebut juga Pohon Lontar (Borassus flabellifer) adalah sejenis palma (pinang-pinangan) yang tumbuh di Asia Tenggara dan Asia Selatan. Pohon Lontar (Borassus flabellifer) menjadi flora identitas provinsi Sulawesi Selatan. Pohon ini banyak dimanfaatkan daunnya, batangnya, buah hingga bunganya yang dapat disadap untuk diminum langsung sebagai legen (nira), difermentasi menjadi tuak ataupun diolah menjadi gula siwalan (sejenis gula merah).";
+
+data:30 rdf:type data:tanaman;
+    data:id "30";
+    data:nama "Menteng";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Baccaurea racemosa";
+    data:urlFoto "https://bdsingapore.com/img/600/u7hjm29u9v5kfzp2/LemBjK5.jpg";
+    data:deskripsi "Pohon dan buah Menteng makin langka dan sulit ditemukan. Padahal, dari nama pohon Menteng (Baccaurea racemosa), salah satu kawasan di Jakarta dinamai. Konon di Menteng, Jakarta Pusat, dulunya banyak ditumbuhi pohon ini. Sayang, kini pohon penghasil buah ini semakin langka.";
+
+data:31 rdf:type data:tanaman;
+    data:id "31";
+    data:nama "Mundu";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Garcinia dulcis";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/08/buah-mundu-garcinia-dulcis.jpg";
+    data:deskripsi "Mundu atau Garcinia dulcis merupakan sejenis pohon buah-buahan yang semakin langka anggota genus Garcinia yang berkerabat dekat dengan manggis (Garcinia mangostana) dan asem kandis (Garcinia parvifolia). Mundu dipercaya sebagai tanaman buah asli Indonesia yang hanya tumbuh di Jawa dan sebagian Kalimantan, meskipun tumbuhan ini juga tumbuh di Filipina dan Thailand.";
+
+data:32 rdf:type data:tanaman;
+    data:id "32";
+    data:nama "Namnam";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Cynometra cauliflora";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/12/daun-namnam-cynometra-cauliflora.jpg?w=400&h=336";
+    data:deskripsi "Buah namnam atau kopi anjing atau sawo pancukan memang eksotis. Seperti buah kepel, pohon bernama latin Cynometra cauliflora ini buahnya terdapat di batangnya. Jadi jangan berharap bisa memanjatnya ketika ingin memetik buah namnam ini.";
+
+data:33 rdf:type data:tanaman;
+    data:id "33";
+    data:nama "Sawo Kecik";
+    data:kategori "Tanaman Buah";
+    data:nama_ilmiah "Manilkara kauki";
+    data:urlFoto "https://alamendah.files.wordpress.com/2010/04/sawo-kecik.jpg?w=250&h=166";
+    data:deskripsi "Sawo Kecik (Manilkara kauki) sering disebut juga Sawo Jawa merupakan tanaman (pohon) penghasil buah dari keluarga sawo-sawoan (Sapotaceae) yang kini mulai langka dan jarang ditemukan di Indonesia. Sawo Kecik yang menurut filosofi jawa sering diidentikkan dengan ‘sarwo becik’ (serba baik). Di Yogyakarta kadang dijadikan tanaman pertanda bahwa orang yang menanamnya adalah abdi dalem kraton.";
