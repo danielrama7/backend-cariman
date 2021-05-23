@@ -6,7 +6,7 @@ data:1 rdf:type data:tanaman;
     data:nama "Bunga Mawar";
     data:kategori "Tanaman Hias";
     data:nama_ilmiah "Rosa";
-    data:urlFoto "";
+    data:urlFoto "https://s4.bukalapak.com/img/4798892882/large/Bunga_Mawar_Merah.jpg";
     .
 
 data:2 rdf:type data:tanaman;
@@ -33,3 +33,10 @@ data:4 rdf:type data:tanaman;
     data:urlFoto "";
     .
 
+data:5 rdf:type data:tanaman;
+    data:id "5";
+    data:nama "Bunga Tulip Taman";
+    data:kategori "Tanaman Hias";
+    data:nama_ilmiah "Gesneriana";
+    data:urlFoto "";
+    .
