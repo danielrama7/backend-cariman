@@ -26,7 +26,7 @@ exports.getCariman = async(param)=>{
             FILTER regex(?id, "${param.id ? param.id : ''}", "i")
             FILTER regex(?kategori, "${param.kategori ? param.kategori : ''}", "i")
             FILTER regex(?nama_ilmiah, "${param.nama_ilmiah ? param.nama_ilmiah : ''}", "i")
-            FILTER regex(?nama_ilmiah, "${param.deskripsi ? param.deskripsi : ''}", "i")
+            FILTER regex(?deskripsi, "${param.deskripsi ? param.deskripsi : ''}", "i")
         }`
     
     };

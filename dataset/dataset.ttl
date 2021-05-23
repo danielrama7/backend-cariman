@@ -125,6 +125,7 @@ data:14 rdf:type data:tanaman;
     data:nama_ilmiah "Oncosperma tigillarium";
     data:urlFoto "https://alamendah.files.wordpress.com/2009/12/nibung-oncosperma-tigillarium.jpg?w=168&h=250";
     data:deskripsi "Pohon Nibung (Oncosperma tigillarium) adalah tanaman sejenis palma (palem) yang tumbuh di Asia Tenggara termasuk hampir di seluruh wilayah Indonesia. Pohon Nibung dianggap sebagai simbol semangat persatuan dan persaudaraan masyarakat Riau  karenanya tidak heran jika pohon Nibung ditetapkan sebagai flora identitas provinsi Riau.";
+    .
 
 data:15 rdf:type data:tanaman;
     data:id "15";
@@ -133,6 +134,7 @@ data:15 rdf:type data:tanaman;
     data:nama_ilmiah "Physalis angulata";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/08/ciplukan-buah-daun-bunga.jpg?w=250&h=246";
     data:deskripsi "Ceplukan atau ciplukan yang dalam bahasa latin disebut sebagai Physalis angulata merupakan salah satu tumbuhan herbal yang hidup semusim dan mempunyai tinggi sekitar 1 meter saja. Ceplukan atau ciplukan (Physalis angulata) yang mempunyai buah khas yang tertutup oleh pembesaran kelopak bunga ini kaya akan berbagai manfaat terutama sebagai tanaman herbal (obat-obatan).";
+    .
 
 data:16 rdf:type data:tanaman;
     data:id "16";
@@ -141,6 +143,7 @@ data:16 rdf:type data:tanaman;
     data:nama_ilmiah "Morinda citrifolia";
     data:urlFoto "https://alamendah.files.wordpress.com/2011/08/mengkudu-pace.jpg?w=275&h=400";
     data:deskripsi "Pohon mengkudu atau pace yang diyakini sebagai tanaman asli Asia Tenggara sejak lama telah dimanfaatkan untuk mengobati berbagai penyakit seperti asam urat, reumatik, darah tinggi, diabetes, ginjal, kanker, alergi, asma, dan lainnya. Khasiat ini disebabkan mengkudu (Morinda citrifolia) memiliki kandungan vitamin, kalsium, kalium, protein, antioksidan, dan lainnya.";
+    .
 
 data:17 rdf:type data:tanaman;
     data:id "17";
@@ -149,6 +152,7 @@ data:17 rdf:type data:tanaman;
     data:nama_ilmiah "Piper betle";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/10/daun-sirih.jpg?w=266&h=400";
     data:deskripsi "Sirih merupakan tanaman khas atau Flora Identitas provinsi Kepulauan Riau. Tanaman yang konon asli Indonesia dan tumbuh merambat pada batang pohon lain ini ditetapkan sebagai maskot (identitas) provinsi kepulauan ini.";
+    .
 
 data:18 rdf:type data:tanaman;
     data:id "18";
@@ -157,6 +161,7 @@ data:18 rdf:type data:tanaman;
     data:nama_ilmiah "Evodia suaveolens";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/03/tanaman-zodia-dalam-pot.png?w=283&h=400";
     data:deskripsi "Zodia (Evodia suaveolens). Zodia adalah tumbuhan dari suku jeruk-jerukan (Rutaceae) yang merupakan tanaman endemik Indonesia yang berasal dari Papua. Tanaman ini telah dimanfaatkan oleh masyarakat asli Papua untuk mengusir serangga dan nyamuk dengan cara mengusapkan daun zodia ke sekujur tubuh.";
+    .
 
 data:19 rdf:type data:tanaman;
     data:id "19";
@@ -165,6 +170,7 @@ data:19 rdf:type data:tanaman;
     data:nama_ilmiah "Averrhoa bilimbi";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/08/belimbing-wuluh-averrhoa-bilimbi.jpg?w=188&h=250";
     data:deskripsi "Belimbing wuluh atau disebut juga belimbing sayur, belimbing asam atau belimbing buluh dengan nama latin Averrhoa bilimbi merupakan tanaman yang mempunyai buah berasa asam yang kaya khasiat sering digunakan sebagai bumbu sayuran atau campuran jamu.";
+    .
 
 data:20 rdf:type data:tanaman;
     data:id "20";
@@ -173,6 +179,7 @@ data:20 rdf:type data:tanaman;
     data:nama_ilmiah "Phyllanthus acidus";
     data:urlFoto "https://s0.bukalapak.com/img/558256701/large/581119_a4e25e17-480b-48fd-b070-c903ea926226.jpg";
     data:deskripsi "Pohon ceremai merupakan pohon dengan nama buah yang sama. Pohon ceremai yang menghasilkan buah berasa masam (asam) seperti belimbing wuluh ini ternyata memiliki aneka manfaat khususnya sebagai tumbuhan obat-obatan (herbal).";
+    .
 
 data:21 rdf:type data:tanaman;
     data:id "21";
@@ -181,6 +188,7 @@ data:21 rdf:type data:tanaman;
     data:nama_ilmiah "Syzygium cumini";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/02/buah-jamblang-duwet.jpg?w=400&h=300";
     data:deskripsi "Jamblang atau Duwet adalah nama buah dan pohon untuk tanaman bernama ilmiah Syzygium cumini. Pohon penghasil buah ini masih tergolong dalam suku jambu-jambuan (Myrtaceae). Jamblang atau Duwet kini termasuk salah satu tanaman yang mulai terlupakan bahkan langka dan jarang dibudidayakan. Konon, pohon Jamblang (Syzygium cumini) merupakan rumah bagi para hantu.";
+    .
 
 data:22 rdf:type data:tanaman;
     data:id "22";
@@ -189,6 +197,7 @@ data:22 rdf:type data:tanaman;
     data:nama_ilmiah "Inocarpus fagiferus";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/12/buah-gayam.jpg?w=400&h=312";
     data:deskripsi "Gayam merupakan tanaman bernama latin Inocarpus fagiferus yang bersinonim dengan Inocarpus fagifer dan Inocarpus edulis. Tanaman yang dikenal juga sebagai angkaeng dan bosua (Sulawesi) ini dalam bahasa Inggris disebut Otaheite chestnut, Polynesian chestnut, atau Tahiti chestnut.";
+    .
 
 data:23 rdf:type data:tanaman;
     data:id "23";
@@ -197,6 +206,7 @@ data:23 rdf:type data:tanaman;
     data:nama_ilmiah "Mangifera casturi";
     data:urlFoto "https://www.greeners.co/wp-content/uploads/2017/12/Flora-Mangga-Kasturi-Ikon-Flora-Kalimantan-Selatan-yang-Punah-di-Alam.jpg";
     data:deskripsi "Kasturi yang dalam bahasa ilmiah (latin) disebut Mangifera casturi, merupakan salah satu dari sekitar 31 jenis mangga yang dapat ditemukan di Kalimantan, Indonesia. Bahkan, mangga yang dalam bahasa Inggris selain disebut kasturi juga dinamakan Kalimantan Mango ini merupakan tumbuhan endemik Kalimantan. Sayang, IUCN redlist melabelinya sebagai Extinct in the Wild atau telah punah dari habitat aslinya.";
+    .
 
 data:24 rdf:type data:tanaman;
     data:id "24";
@@ -205,6 +215,7 @@ data:24 rdf:type data:tanaman;
     data:nama_ilmiah "Limonia acidissima";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/02/limonia_acidissima_syn_limonia_elephantum_or_fernonia_limonia_wood-apple_in_talakona_forest_ap_w_img_8333.jpg?w=400&h=302";
     data:deskripsi "Kawista atau Kawis mungkin kurang populer oleh kita. Pohon penghasil buah yang dalam bahasa latin disebut sebagai Limonia acidissima ini mulai jarang ditemukan. Tumbuhan yang mampu hidup di daerah bertanah kering dan identik dengan kota Rembang meskipun sebenarnya pohon Kawista ini berasal dari India bagian selatan memang kalah populer dengan buah-buah lainnya.";
+    .
 
 data:25 rdf:type data:tanaman;
     data:id "25";
@@ -213,6 +224,7 @@ data:25 rdf:type data:tanaman;
     data:nama_ilmiah "Dysoxylum gaudichaudianum";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/07/kedoya-dysoxylum-gaudichaudianum.jpg?w=400&h=300";
     data:deskripsi "Kedoya (Dysoxylum gaudichaudianum), diyakini dari nama pohon inilah nama Kedoya, sebuah daerah di kecamatan Kebun Jeruk Jakarta Barat berasal. Namun ternyata hanya sedikit yang mengetahui sejarah asal muasal nama daerah ini. Mungkin lantaran mulai langka dan sulit dijumpainya pohon yang mempunyai nama latin ini. Seperti halnya kemang, gambir maupun berbagai nama tumbuhan yang dijadikan nama daerah di Jakarta.";
+    .
 
 data:26 rdf:type data:tanaman;
     data:id "26";
@@ -221,6 +233,7 @@ data:26 rdf:type data:tanaman;
     data:nama_ilmiah "Mangifera kemanga";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/05/pohon-kemang-mangifera-kemanga.jpg?w=400&h=303";
     data:deskripsi "Kemang (Mangifera kemanga) merupakan tanaman yang mulai langka di Indonesia. Padahal, konon dari nama pohon sejenis mangga ini nama daerah Kemang di Jakarta berasal. Pohon kemang yang mempunyai buah khas berbau harus menusuk dengan rasa yang masam manis ini juga telah ditetapkan sebagai flora identitas kabupaten Bogor, Jawa Barat. Sayangnya, tumbuhan ini mulai langka dan sulit ditemukan.";
+    .
 
 data:27 rdf:type data:tanaman;
     data:id "27";
@@ -229,6 +242,7 @@ data:27 rdf:type data:tanaman;
     data:nama_ilmiah "Stelechocarpus burahol";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/02/pohon-dan-buah-kepel.jpg?w=300&h=400";
     data:deskripsi "Kepel adalah nama pohon dan buah yang mempunyai nama ilmiah Stelechocarpus burahol. Tumbuhan penghasil buah yang menjadi kegemaran para putri keraton Jawa sejak jaman dulu ini kini termasuk salah satu tanaman langka di Indonesia. Pohon Kepel yang dipercaya mempunyai nilai filosofi adhiluhung ini merupakan flora identitas provinsi Daerah Istimewa Jogyakarta.";
+    .
 
 data:28 rdf:type data:tanaman;
     data:id "28";
@@ -237,6 +251,7 @@ data:28 rdf:type data:tanaman;
     data:nama_ilmiah "Phoenix paludosa";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/07/korma-rawa_large.jpg?w=250&h=168";
     data:deskripsi "Korma rawa (Phoenix paludosa) memang masih saudara dekat pohon kurma (Phoenix dactylifera) yang biasa tumbuh di daerah Arab. Korma rawa dapat ditemukan di rawa-rawa daerah Aceh Timur. Pohon yang mulai langka ini termasuk salah satu dari sekitar 14 jenis palem (Arecaceae )yang dilindungi di Indoneia. Sayang sedikit yang mengetahui keberadaan tumbuhan ini termasuk penelitian tentang potensi dan manfaat pohon korma rawa (Phoenix paludosa) masih sangat sedikit.";
+    .
 
 data:29 rdf:type data:tanaman;
     data:id "29";
@@ -245,6 +260,7 @@ data:29 rdf:type data:tanaman;
     data:nama_ilmiah "Borassus flabellifer";
     data:urlFoto "https://alamendah.files.wordpress.com/2009/11/pohon-lontar-borassus-flabellifer.jpg?w=267&h=400";
     data:deskripsi "Pohon Siwalan atau disebut juga Pohon Lontar (Borassus flabellifer) adalah sejenis palma (pinang-pinangan) yang tumbuh di Asia Tenggara dan Asia Selatan. Pohon Lontar (Borassus flabellifer) menjadi flora identitas provinsi Sulawesi Selatan. Pohon ini banyak dimanfaatkan daunnya, batangnya, buah hingga bunganya yang dapat disadap untuk diminum langsung sebagai legen (nira), difermentasi menjadi tuak ataupun diolah menjadi gula siwalan (sejenis gula merah).";
+    .
 
 data:30 rdf:type data:tanaman;
     data:id "30";
@@ -253,6 +269,7 @@ data:30 rdf:type data:tanaman;
     data:nama_ilmiah "Baccaurea racemosa";
     data:urlFoto "https://bdsingapore.com/img/600/u7hjm29u9v5kfzp2/LemBjK5.jpg";
     data:deskripsi "Pohon dan buah Menteng makin langka dan sulit ditemukan. Padahal, dari nama pohon Menteng (Baccaurea racemosa), salah satu kawasan di Jakarta dinamai. Konon di Menteng, Jakarta Pusat, dulunya banyak ditumbuhi pohon ini. Sayang, kini pohon penghasil buah ini semakin langka.";
+    .
 
 data:31 rdf:type data:tanaman;
     data:id "31";
@@ -261,6 +278,7 @@ data:31 rdf:type data:tanaman;
     data:nama_ilmiah "Garcinia dulcis";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/08/buah-mundu-garcinia-dulcis.jpg";
     data:deskripsi "Mundu atau Garcinia dulcis merupakan sejenis pohon buah-buahan yang semakin langka anggota genus Garcinia yang berkerabat dekat dengan manggis (Garcinia mangostana) dan asem kandis (Garcinia parvifolia). Mundu dipercaya sebagai tanaman buah asli Indonesia yang hanya tumbuh di Jawa dan sebagian Kalimantan, meskipun tumbuhan ini juga tumbuh di Filipina dan Thailand.";
+    .
 
 data:32 rdf:type data:tanaman;
     data:id "32";
@@ -269,6 +287,7 @@ data:32 rdf:type data:tanaman;
     data:nama_ilmiah "Cynometra cauliflora";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/12/daun-namnam-cynometra-cauliflora.jpg?w=400&h=336";
     data:deskripsi "Buah namnam atau kopi anjing atau sawo pancukan memang eksotis. Seperti buah kepel, pohon bernama latin Cynometra cauliflora ini buahnya terdapat di batangnya. Jadi jangan berharap bisa memanjatnya ketika ingin memetik buah namnam ini.";
+    .
 
 data:33 rdf:type data:tanaman;
     data:id "33";
@@ -277,3 +296,67 @@ data:33 rdf:type data:tanaman;
     data:nama_ilmiah "Manilkara kauki";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/04/sawo-kecik.jpg?w=250&h=166";
     data:deskripsi "Sawo Kecik (Manilkara kauki) sering disebut juga Sawo Jawa merupakan tanaman (pohon) penghasil buah dari keluarga sawo-sawoan (Sapotaceae) yang kini mulai langka dan jarang ditemukan di Indonesia. Sawo Kecik yang menurut filosofi jawa sering diidentikkan dengan ‘sarwo becik’ (serba baik). Di Yogyakarta kadang dijadikan tanaman pertanda bahwa orang yang menanamnya adalah abdi dalem kraton.";
+    .
+
+data:34 rdf:type data:tanaman;
+    data:id "34";
+    data:nama "Padi";
+    data:kategori "Tanaman Pangan";
+    data:nama_ilmiah "Oryza Sativa";
+    data:urlFoto "https://thegorbalsla.com/wp-content/uploads/2020/02/2.-Padi.jpg";
+    data:deskripsi "Padi berasal dari kelompok rumput-rumputan atau disebut famil Gramineae. Tanaman ini berasal dari spesies beras Asia (Oryza sativa) dan beras Afrika (Oryza glaberrima). Dalam peradaban manusia, padi menjadi salah satu tanaman budidaya yang sangat penting. Dari kelompok biji-bijian, padi menjadi makanan pokok yang banyak dikonsumsi manusia. Asia Tenggara menjadi salah satu kawasan dengan konsumsi padi terbanyak.";
+    .
+
+data:35 rdf:type data:tanaman;
+    data:id "35";
+    data:nama "Gandum";
+    data:kategori "Tanaman Pangan";
+    data:nama_ilmiah "Poaceae";
+    data:urlFoto "https://thegorbalsla.com/wp-content/uploads/2020/02/Gandum-1-700x525.jpg";
+    data:deskripsi "Tumbuhan pangan dari famili Graminear (Poaceae) ini menjadi bahan pokok yang banyak dikonsumsi masyarakat. Tanaman ini berasal dari daerah beriklim subtropics, namun bisa juga dibudidayakan di Negara tropis. Gandum menjadi salah satu sumber makanan pokok orang Indonesia yang diolah menjadi tepung terigu.";
+    .
+
+data:36 rdf:type data:tanaman;
+    data:id "36";
+    data:nama "Jagung";
+    data:kategori "Tanaman Pangan";
+    data:nama_ilmiah "Zea mays";
+    data:urlFoto "https://thegorbalsla.com/wp-content/uploads/2020/02/jagung-700x394.jpeg";
+    data:deskripsi "Zea mays merupakan bahasa ilmiah untuk jagung, tanaan ini menjadi salah satu tanaman pangan yang sangat penting keberadaannya selain gandum dan padi. Di Amerika Tengah dan Selatan, jagung menjadi sumber karbohidrat utama, dan di Amerika Serikat menjadi alternatif makanan pokok.";
+    .
+
+data:37 rdf:type data:tanaman;
+    data:id "37";
+    data:nama "Kacang Kedelai";
+    data:kategori "Tanaman Pangan";
+    data:nama_ilmiah "Glycine max L.";
+    data:urlFoto "https://thegorbalsla.com/wp-content/uploads/2020/02/Kacang-Kedelai-700x467.jpg";
+    data:deskripsi "Kacang ini memiliki nama ilmiah Glycine max L. Kedelai masuk ke dalam kelompok polong-polongan dan dijadikan bahan dasar mengolah berbagai macam makanan di kawasan Asia Timur. Kedelai digunakan sebagai bahan dasar pembuatan tempe, tahu, dan kecap. Di Jepang dan China keberadaan kedelai sangat penting, bahkan kedelai dikonsumsi oleh hampir seluruh masyarakat di Negara tersebut. Kandungan nutrisi kedelai memang tidak bisa diremehkan. Kedelai mengandung lemak tak jenuh, protein, serat, dan kalsium.";
+    .
+
+data:38 rdf:type data:tanaman;
+    data:id "38";
+    data:nama "Kacang Tanah";
+    data:kategori "Tanaman Pangan";
+    data:nama_ilmiah "Glycine max L.";
+    data:urlFoto "https://thegorbalsla.com/wp-content/uploads/2020/02/Kacang-Tanah-1-700x467.jpg";
+    data:deskripsi "Kacang ini memiliki nama ilmiah Glycine max L. Kedelai masuk ke dalam kelompok polong-polongan dan dijadikan bahan dasar mengolah berbagai macam makanan di kawasan Asia Timur. Kedelai digunakan sebagai bahan dasar pembuatan tempe, tahu, dan kecap. Di Jepang dan China keberadaan kedelai sangat penting, bahkan kedelai dikonsumsi oleh hampir seluruh masyarakat di Negara tersebut. Kandungan nutrisi kedelai memang tidak bisa diremehkan. Kedelai mengandung lemak tak jenuh, protein, serat, dan kalsium.";
+    .
+
+data:39 rdf:type data:tanaman;
+    data:id "39";
+    data:nama "Kacang Polong";
+    data:kategori "Tanaman Pangan";
+    data:nama_ilmiah "Pisum sativulm L";
+    data:urlFoto "https://thegorbalsla.com/wp-content/uploads/2020/02/Kacang-Polong-700x438.jpg";
+    data:deskripsi "Kacang polong memiliki nama latin Pisum sativulm L dan dikenal juga sebagai kacang ercis. Tanaman ini berasal dari famili polong-polongan (Fabaceae), tanaman ini menghasilkan biji berwarna hijau sebagai sayuran. Kacang polong atau kacang ercis ini mengandung nutrisi karbohidrat dan protein yang tinggi. Selain itu, kacang ini memiliki kelebihan memberikan rasa kenyang lebih lama. Banyak sekali kuliner dari Indonesia yang menggunakan kacang polong. Hal tersebut karena mendapat pengaruh kuliner dari Eropa dan Tiongkok.";
+    .
+
+data:40 rdf:type data:tanaman;
+    data:id "40";
+    data:nama "Singkong";
+    data:kategori "Tanaman Pangan";
+    data:nama_ilmiah "Manihot utilissima";
+    data:urlFoto "https://thegorbalsla.com/wp-content/uploads/2020/02/Singkong-1-700x374.jpg";
+    data:deskripsi "Singkong memiliki nama ilmiah Manihot utilissima, dikenal juga dengan nama ketela pohon atau ubi batang. Singkong masuk dalam family Euphorbiaceae. Tanaman ini merupakan tanaman perdu tahunan baik tropis maupun subtropics. Umbi pada tanaman singkong dijadikan pangan pokok dengan kandungan karbohidrat. Selain itu, daun singkong juga dapat dikonsumsi dan diolah menjadi sayur. Kandungan karbohidran pada umbi singkong pada dasarnya relatif rendah. Namun, kandungan sumber protein pada daun singkong sangat bagus. Hal tersebut karena daun singkong mengandung asam amino metionina.";
+    .
