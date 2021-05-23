@@ -13,7 +13,7 @@ exports.getCariman = async(param)=>{
     const queryData = {
         query: `PREFIX data:<http://example.com/>
         PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> 
-        SELECT ?id ?nama ?kategori ?nama_ilmiah ?urlFoto
+        SELECT ?id ?nama ?kategori ?nama_ilmiah ?urlFoto ?deskripsi
         WHERE{
             ?sub rdf:type data:tanaman
             OPTIONAL {?sub data:id ?id.}
@@ -21,10 +21,12 @@ exports.getCariman = async(param)=>{
             OPTIONAL {?sub data:kategori ?kategori.}
             OPTIONAL {?sub data:nama_ilmiah ?nama_ilmiah.}
             OPTIONAL {?sub data:urlFoto ?urlFoto.}
+            OPTIONAL {?sub data:deskripsi ?deskripsi.}
             FILTER regex(?nama, "${param.nama ? param.nama : ''}", "i")
             FILTER regex(?id, "${param.id ? param.id : ''}", "i")
             FILTER regex(?kategori, "${param.kategori ? param.kategori : ''}", "i")
             FILTER regex(?nama_ilmiah, "${param.nama_ilmiah ? param.nama_ilmiah : ''}", "i")
+            FILTER regex(?nama_ilmiah, "${param.deskripsi ? param.deskripsi : ''}", "i")
         }`
     
     };
