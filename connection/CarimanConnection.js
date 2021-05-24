@@ -1,7 +1,8 @@
 const axios = require('axios');
 const qs = require('qs');
 
-const DATA_URL = "http://localhost:3030";
+// const DATA_URL = "http://localhost:3030";
+const DATA_URL = "http://31.220.62.156:3030";
 
 const headers = {
     'Accept': 'application/sparql-results+json,*/*;q=0.9',
