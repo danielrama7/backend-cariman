@@ -39,7 +39,7 @@ data:4 rdf:type data:tanaman;
 
 data:5 rdf:type data:tanaman;
     data:id "5";
-    data:nama "Anggrek Bulan";
+    data:nama "Bunga Anggrek Bulan";
     data:kategori "Tanaman Hias";
     data:nama_ilmiah "Phalaenopsis amabilis";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/04/anggrek-bulan.jpg?w=250&h=218";
@@ -48,7 +48,7 @@ data:5 rdf:type data:tanaman;
 
 data:6 rdf:type data:tanaman;
     data:id "6";
-    data:nama "Anggrek Hitam";
+    data:nama "Bunga Anggrek Hitam";
     data:kategori "Tanaman Hias";
     data:nama_ilmiah "Coelogyne pandurata";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/01/coelogyne-pandurata-anggrek-hitam.jpg?w=398&h=400";
@@ -57,7 +57,7 @@ data:6 rdf:type data:tanaman;
 
 data:7 rdf:type data:tanaman;
     data:id "7";
-    data:nama "Anggrek Tebu";
+    data:nama "Bunga Anggrek Tebu";
     data:kategori "Tanaman Hias";
     data:nama_ilmiah "Grammatophyllum speciosum";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/07/anggrek-tebu-grammatophyllum-speciosum.jpg?w=187&h=250";
@@ -75,7 +75,7 @@ data:8 rdf:type data:tanaman;
 
 data:9 rdf:type data:tanaman;
     data:id "9";
-    data:nama "Cempaka Putih";
+    data:nama "Bunga Cempaka Putih";
     data:kategori "Tanaman Hias";
     data:nama_ilmiah "Michelia alba";
     data:urlFoto "https://alamendah.files.wordpress.com/2010/05/kantil-cempaka-putih-michelia-alba.jpg?w=188&h=250";
@@ -84,7 +84,7 @@ data:9 rdf:type data:tanaman;
 
 data:10 rdf:type data:tanaman;
     data:id "10";
-    data:nama "Cempaka Kuning";
+    data:nama "Bunga Cempaka Kuning";
     data:kategori "Tanaman Hias";
     data:nama_ilmiah "Michelia champaka";
     data:urlFoto "https://alamendah.files.wordpress.com/2009/10/bunga-jeumpa-michelia_champaca.jpg?w=640";
@@ -93,7 +93,7 @@ data:10 rdf:type data:tanaman;
 
 data:11 rdf:type data:tanaman;
     data:id "11";
-    data:nama "Edelweis Jawa";
+    data:nama "Bunga Edelweis Jawa";
     data:kategori "Tanaman Hias";
     data:nama_ilmiah "Anaphalis javanica";
     data:urlFoto "https://alamendah.files.wordpress.com/2009/07/edelweiss_011.jpg?w=250&h=240";
@@ -102,7 +102,7 @@ data:11 rdf:type data:tanaman;
 
 data:12 rdf:type data:tanaman;
     data:id "12";
-    data:nama "Kenanga";
+    data:nama "Bunga Kenanga";
     data:kategori "Tanaman Hias";
     data:nama_ilmiah "Cananga odorata";
     data:urlFoto "https://alamendah.files.wordpress.com/2011/03/kenanga-cananga-odorata.jpg?w=400&h=300";
