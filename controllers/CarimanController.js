@@ -33,4 +33,26 @@ module.exports.getCariman = async(req, res)=>{
         }catch(err){
             res.status(400).json(err);
         }
-    }
+}
+module.exports.getSuggestion = async(req, res)=>{
+    try{
+        // Query data dari connection
+        let cariman = await connection.getSuggestion(req.query);
+
+        if(!cariman.bindings.length){
+            return res.status(200).json({
+                data:[],
+                message: "Data tidak ditemukan"
+            });
+        }
+
+        cariman = cariman.bindings.map((tanaman)=>Format(tanaman));
+        res.status(200).json({
+            data: cariman,
+            message: "Menampilkan semua tanaman"
+        })
+
+    }catch(err){
+        res.status(400).json(err);
+    }   
+}

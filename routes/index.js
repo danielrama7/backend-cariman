@@ -4,5 +4,6 @@ const carimanController = require('../controllers/CarimanController');
 
 router.get('/cariman', carimanController.getCariman);
 router.get('/cariman/:id', carimanController.getCariman);
+router.get('/rekomendasi', carimanController.getSuggestion);
 
 module.exports = router;
